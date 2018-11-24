@@ -1,6 +1,4 @@
-# katas
-Code katas
-
+# Code katas
 * [Basic Git](#basic-git)
 
 ## Basic Git
