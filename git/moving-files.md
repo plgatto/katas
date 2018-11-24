@@ -27,4 +27,4 @@ git mv test.txt new-folder
 
 # 4. Commit changes
 git commit -m "moved test.txt to new-folder"
-```bash
+```
