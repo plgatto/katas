@@ -1,4 +1,4 @@
-# Git: moving a file to a new folder
+# Moving a file to a new folder
 
 ## Kata
 1. Create a new repo
