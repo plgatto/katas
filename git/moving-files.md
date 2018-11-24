@@ -7,4 +7,18 @@
 4. Commit changes
 
 ## Code
-[TBD]
+# 1. Create a new repo
+mkdir kata-repo
+cd kata-repo
+git init
+git config user.name "someone"
+git config user.email "someone@someplace.com"
+# 2. Commit a file
+touch test.txt
+git add test.txt
+git commit -m "added test.txt"
+# 3. Move the file into another folder
+mkdir new-folder
+git mv test.txt new-folder
+# 4. Commit changes
+git commit -m "moved test.txt to new-folder"
