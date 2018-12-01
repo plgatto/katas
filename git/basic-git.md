@@ -3,7 +3,7 @@
 ## Kata
 1. Create a repo
 2. Commit some changes
-3. Create new branche from repo
+3. Create new branch from repo
 4. Commit some changes
 5. Merge the branch into master
 6. Delete the branch
@@ -22,7 +22,7 @@ touch test.txt
 git add *
 git commit -m "first commit"
 
-# 3. Create new branche from repo
+# 3. Create new branch from repo
 git checkout -b new-feature master
 
 # 4. Commit some changes
